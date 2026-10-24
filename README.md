@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://adnanwaasi.vercel.app"><img src="https://img.shields.io/badge/portfolio-adnanwaasi.vercel.app-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/adnanwaasi"><img src="https://img.shields.io/github/followers/adnanwaasi?label=followers&style=flat-square&logo=github" alt="GitHub followers"/></a>
-  <img src="https://img.shields.io/badge/SRMIST-B.Tech%20CSE-1f6feb?style=flat-square" alt="SRMIST B.Tech CSE"/>
+  <a href="https://github.com/adnanwaasi"><img src="https://img.shields.io/github/followers/adnanwaasi?label=followers&style=flat-square&logo=github" 
 </p>
 
 ---
