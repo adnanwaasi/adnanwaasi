@@ -15,9 +15,6 @@
 
 ### 🔭 Right now
 
-- 🔧 **AI Invoice Auditor**: durable ingestion, Postgres-backed job claiming, clean architecture, 27 tests
-- 🧠 **fyproject**: a code synthesis pipeline that generates tests, runs them, works out why they failed, and repairs its own output
-- 🎓 **SRMIST**, B.Tech in Computer Science & Engineering
 - 🌐 [adnanwaasi.vercel.app](https://adnanwaasi.vercel.app)
 
 ---
@@ -45,9 +42,10 @@ How that plays out in practice:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**jesusismysavior**](https://github.com/adnanwaasi/jesusismysavior) | Containerized AI invoice auditor. SHA-256 dedupe, a job state machine, Postgres worker claims, and extraction across PDF, DOCX and images. | Python · Postgres · Docker |
-| [**fyproject**](https://github.com/adnanwaasi/fyproject) | Self-repairing code synthesis: spec extraction → generation → test generation → execution → error analysis → repair. Rolls back anything under an 85% acceptance bar. | Python · FastAPI · LangChain · Pydantic |
-| [**cpu_simulation**](https://github.com/adnanwaasi/cpu_simulation) | CPU scheduling simulator (FCFS, SJN, Priority, Round Robin) that compares turnaround, waiting and response times. | C++ |
+| [**code synthesizer and validator **](https://github.com/adnanwaasi/fyproject) | Self-repairing code synthesis: spec extraction → generation → test generation → execution → error analysis → repair. Rolls back anything under an 85% acceptance bar. | Python · FastAPI · LangChain · Pydantic |
+| [**f1 lap_time_simulation **](https://github.com/adnanwaasi/lap_time_simulation) | originally i wanted to make my quali simulations and check who has better chances at winning and what could be quali laps then later made it into race simulations | C++ · Python |
+
+| [**faster one**](https://github.com/adnanwaasi/mini_laps) | a game built to improve your observability and reaction time  | C++ · Python |
 
 <details>
 <summary><b>fyproject pipeline at a glance</b></summary>
