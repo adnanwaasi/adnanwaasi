@@ -44,8 +44,7 @@ How that plays out in practice:
 | --- | --- | --- |
 | [**code synthesizer and validator**](https://github.com/adnanwaasi/fyproject) | Self-repairing code synthesis: spec extraction → generation → test generation → execution → error analysis → repair. Rolls back anything under an 85% acceptance bar. | Python · FastAPI · LangChain · Pydantic |
 | [**f1 lap_time_simulation**](https://github.com/adnanwaasi/lap_time_simulation) | originally i wanted to make my quali simulations and check who has better chances at winning and what could be quali laps then later made it into race simulations | C++ · Python |
-
-| [**faster one**](https://github.com/adnanwaasi/mini_laps) | a game built to improve your observability and reaction time  | C++ · Python |
+| [**faster one**](https://github.com/adnanwaasi/mini_laps) | a game built to improve your observability and reaction time  | C++  |
 
 <details>
 <summary><b>fyproject pipeline at a glance</b></summary>
