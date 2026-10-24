@@ -20,7 +20,7 @@
 
 ### 🧭 What I care about
 
-**Correctness over demos.** **Testable boundaries.** **Architecture you can still explain six months later.**
+**security, scalability, correctness, satisfaction** 
 
 > Everything here has been run, and I know it works.
 > If it doesn't work, it isn't here.
