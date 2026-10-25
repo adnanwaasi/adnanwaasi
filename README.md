@@ -43,7 +43,7 @@ How that plays out in practice:
 | [**faster one**](https://github.com/adnanwaasi/mini_laps) | a game built to improve your observability and reaction time  | C++  |
 
 <details>
-<summary><b>fyproject pipeline at a glance</b></summary>
+<summary><b>code synthesizer and validator pipeline at a glance</b></summary>
 
 ```mermaid
 flowchart LR
