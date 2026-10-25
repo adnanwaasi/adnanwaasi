@@ -5,10 +5,7 @@
   <i>If it doesn't run, it doesn't ship.</i>
 </p>
 
-<p align="center">
-  <a href="https://adnanwaasi.vercel.app"><img src="https://img.shields.io/badge/portfolio-adnanwaasi.vercel.app-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/adnanwaasi"><img src="https://img.shields.io/github/followers/adnanwaasi?label=followers&style=flat-square&logo=github" 
-</p>
+
 
 ---
 
